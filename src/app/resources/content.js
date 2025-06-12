@@ -239,7 +239,7 @@ const about = {
         ],
       },
       {
-        title: "DebOps & Deployment",
+        title: "DevOps & Deployment",
         description: <>Docker | Kubernetes | AWS | GCP | CI/CD</>,
         // optional: leave the array empty if you don't want to display images
         images: [
