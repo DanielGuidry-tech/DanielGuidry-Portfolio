@@ -1,6 +1,6 @@
 # **Daniel Portfolio by Once UI**
 
-View the [demo here](https://demo.daniel-portfolio.com).
+View the [demo here](https://daniel-guidry.vercel.app/).
 
 ![Daniel Portfolio](https://demo.daniel-portfolio.com/images/og/home.jpg)
 
