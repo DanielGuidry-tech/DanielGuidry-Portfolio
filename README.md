@@ -2,7 +2,7 @@
 
 View the [demo here](https://daniel-guidry.vercel.app/).
 
-![Daniel Portfolio](https://demo.daniel-portfolio.com/images/og/home.jpg)
+![Daniel Portfolio](https://daniel-guidry.vercel.app/images/og/home.png)
 
 
 # **Getting started**

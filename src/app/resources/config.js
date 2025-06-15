@@ -1,5 +1,5 @@
 // IMPORTANT: Replace with your own domain address - it's used for SEO in meta tags and schema
-const baseURL = "https://demo.daniel-portfolio.com";
+const baseURL = "https://daniel-guidry.vercel.app/";
 
 const routes = {
   "/": true,
