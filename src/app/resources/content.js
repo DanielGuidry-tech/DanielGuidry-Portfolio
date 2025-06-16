@@ -196,7 +196,7 @@ const about = {
     title: "Education",
     institutions: [
       {
-        name: "Lafayette College | Lafayette, LA",
+        name: "Lafayette College | Easton, PA 18042",
         description: <>Computer Engineering | 10/2020</>,
       },
     ],
