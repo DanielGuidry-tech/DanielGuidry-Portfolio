@@ -197,7 +197,7 @@ const about = {
     institutions: [
       {
         name: "Lafayette College | Easton, PA 18042",
-        description: <>Electronic and Computer Enineering | 10/2020</>,
+        description: <>Electronic and Computer Enineering | Jun/2020</>,
       },
     ],
   },
